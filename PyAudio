@@ -2,6 +2,8 @@
 
 pip
 
+## Instalation: 
+
 # Install PyAudio package from website below. Choose based on python version (cp39 -> python 3.9).
 
   https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
