@@ -6,5 +6,7 @@
 
 + Open terminal as su 
 
-+ Change the default version to the latest release you downloaded (in my case 3.10) by: ln -s -f /usr/local/bin/python3.10 /usr/local/bin/python
++ Change the default version to the latest release you downloaded (in my case 3.10) by: 
+
+ln -s -f /usr/local/bin/python3.10 /usr/local/bin/python
 
