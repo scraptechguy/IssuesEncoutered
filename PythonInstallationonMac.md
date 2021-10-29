@@ -12,3 +12,8 @@ python --version
 
 ln -s -f /usr/local/bin/python3.10 /usr/local/bin/python
 
++ Check current Python version again by: 
+
+python --version
+
+Output in my case: Python 3.10.0
