@@ -2,7 +2,7 @@
 
 pip
 
-## Instalation: 
+## Instalation (Windows 10): 
 
 + Install PyAudio package from website below. Choose based on python version (cp39 -> python 3.9).
 
