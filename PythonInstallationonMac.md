@@ -6,7 +6,7 @@
 
 + Visit <a href="Python.org" target="_blank">Python.org</a> and download the latest release
 
-+ Open mac terminal as su (<a href="" target="_blank">How?</a>)
++ Open mac terminal as su (<a href="https://github.com/scraptechguy/IssuesIEncoutered/blob/main/SettingUpSuperUserOnMac.md" target="_blank">How?</a>)
 
 + Change the default version to the latest release you downloaded (in my case 3.10) by: 
 
