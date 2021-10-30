@@ -1,4 +1,4 @@
-## Python installation on Mac
+## Python installation 
 
 Mac's default version of Python is 2.7, to change that to the newest one, do the following... 
 
@@ -50,3 +50,9 @@ Output when pip doesn't work:
 
       ...
       Successfully installed pip-21.3.1 wheel-0.37.0
+
+
+## Setting up super user (su) 
+
+
+## Running C++
