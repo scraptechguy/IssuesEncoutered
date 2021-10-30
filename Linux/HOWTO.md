@@ -1,4 +1,6 @@
-Printer installation:
+## Printer installation
+
++ Note: This ONLY works for a specific printer (aump2000), but similar process will work with whatever printer you have
 
 ```
 apt-get install cups
@@ -6,15 +8,12 @@ apt-get install printer-driver-gutenprint
 ```
 http://localhost:631
 
-aump2000
-
 socket://195.113.29.126:9100
 
-do NOT use old aump2000.ppd, but the one from Gutenprint!
++ Do NOT use old aump2000.ppd, but the one from Gutenprint!
 
---
 
-Debian 11 bullseye installation:
+## Debian 11 bullseye installation
 
 ```
 apt-get install firmware-iwlwifi
@@ -25,8 +24,8 @@ vi /etc/network/interfaces
 reboot
 ```
 
-uses systemd, not init.d :-(
++ Note: Uses systemd, not init.d :-(
 
---
+
 
 
