@@ -1,4 +1,6 @@
-## Mac's default version of Python is 2.7, to change that to the newest one, do the following... 
+## Python installation on Mac
+
+Mac's default version of Python is 2.7, to change that to the newest one, do the following... 
 
 + Check current python version by: 
  
