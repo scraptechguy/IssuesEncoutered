@@ -57,14 +57,19 @@ Output when pip doesn't work:
 <a href="https://support.apple.com/en-us/HT204012" target="_blank">Official documentation</a>
 
 + Go to System Preferences > Users and Groups 
+
 + Click the lock in left down corner to enable making changes 
+
 + Go to Login Options, there, click Network Account Server: Join...
+
 + Open Directory Utility and enable making changes by clicking the lock again 
+
 + In the menu at the top select Edit and Enable Root User
 
 <img width="466" alt="image" src="https://user-images.githubusercontent.com/75474651/140280137-437f67db-2b0d-4f0c-925f-cc55d59efb5e.png">
 
 (Image of how Edit menu looks like after succesfully setting up root user)
+
 
 ## Running C++
 
