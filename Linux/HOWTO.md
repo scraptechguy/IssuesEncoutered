@@ -19,10 +19,17 @@ socket://195.113.29.126:9100
 
 ```sh
 apt-get install firmware-iwlwifi
+
 apt-get install pulseaudio alsa-utils
+
 apt-get install network-manager network-manager-applet
+
 vi /etc/network/interfaces
-# comment out enp0s25
+```
+
+comment out enp0s25
+
+```sh
 reboot
 ```
 
