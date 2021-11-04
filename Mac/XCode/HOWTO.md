@@ -2,6 +2,8 @@
 
 ## Using Apple SF Symbols in Swift 
 
+You are free to use any symbol in your app as long as you're publishing it directly to app store. Symbols may NOT be used anywhere else. You may use images with those symbols in your app campaign
+
 + Go to <a href="https://developer.apple.com/sf-symbols/" target="_blank">Apple Developer site</a> and download SF Symbols 3
 
 + Open the app and double click any symbol
