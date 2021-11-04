@@ -1,8 +1,10 @@
+
+
 ## Printer installation
 
 + Note: This ONLY works for a specific printer (aump2000), but similar process will work with whatever printer you have
 
-```
+```sh
 apt-get install cups
 apt-get install printer-driver-gutenprint
 ```
@@ -15,7 +17,7 @@ socket://195.113.29.126:9100
 
 ## Debian 11 bullseye installation
 
-```
+```sh
 apt-get install firmware-iwlwifi
 apt-get install pulseaudio alsa-utils
 apt-get install network-manager network-manager-applet
