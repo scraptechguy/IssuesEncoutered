@@ -54,6 +54,8 @@ Output when pip doesn't work:
 
 ## Setting up super user (su) 
 
+<a href="https://support.apple.com/en-us/HT204012" target="_blank">Official documentation</a>
+
 + Go to System Preferences > Users and Groups 
 + Click the lock in left down corner to enable making changes 
 + Go to Login Options, there, click Network Account Server: Join...
