@@ -8,9 +8,14 @@
 apt-get install cups
 apt-get install printer-driver-gutenprint
 ```
-http://localhost:631
 
+```
+http://localhost:631
+```
+
+```
 socket://195.113.29.126:9100
+```
 
 + Do NOT use old aump2000.ppd, but the one from Gutenprint!
 
