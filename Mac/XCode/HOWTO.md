@@ -1,5 +1,7 @@
 ## Running code on a physical device
 
+Yes, it has to be an iPhone... 
+
 ## Using Apple SF Symbols in Swift 
 
 You are free to use any symbol in your app as long as you're publishing it directly to app store. Symbols may NOT be used anywhere else. You may use images with those symbols in your app campaign
