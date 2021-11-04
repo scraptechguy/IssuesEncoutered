@@ -2,6 +2,18 @@
 
 Yes, it has to be an iPhone... 
 
++ Download Apple Developer app to your device (not sure if this is a requirement, still pretty good tho)
+
++ Enroll in <a href="https://developer.apple.com/programs/" target="_blank">Apple Developer program</a>
+
++ In your XCode project, select a Developer Team
+
++ Connect your iPhone to your mac with a cable 
+
++ In iPhone Settings, search for Developer menu. There authorise your mac 
+
++ In XCode Simulators pane, your iPhone name should appear. Select it and click the run button 
+
 ## Using Apple SF Symbols in Swift 
 
 You are free to use any symbol in your app as long as you're publishing it directly to app store. Symbols may NOT be used anywhere else. You may use images with those symbols in your app campaign
