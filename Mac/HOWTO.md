@@ -67,3 +67,21 @@ Output when pip doesn't work:
 (Image of how Edit menu looks like after succesfully setting up root user)
 
 ## Running C++
+
+### Using XCode 
+
++ Download XCode from official <a href="" target="_blank">Apple developer site</a> or from the App Store
+
++ Open XCode and Create a new XCode project 
+
+<img width="487" alt="image" src="https://user-images.githubusercontent.com/75474651/140281010-ce9ec4be-5efe-481c-abcc-88061bfe0ec4.png">
+
++ As a template choose Command Line Tool in macOS pane 
+
+<img width="712" alt="image" src="https://user-images.githubusercontent.com/75474651/140281377-b9abe8ac-2a0b-4465-81a1-402423b0162b.png">
+
++ In options for your new project, fill in the blanks and as a language, choose C++ (all these settings can be changed later)
+
+<img width="712" alt="image" src="https://user-images.githubusercontent.com/75474651/140281524-6a14ae1d-a21b-46f5-b925-cd5eeadc5109.png">
+
++ This will create main.cpp. We're done! 
