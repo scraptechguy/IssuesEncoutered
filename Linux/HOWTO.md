@@ -1,3 +1,6 @@
+### These instructions are Debian specific, but...
+
++ Debian and Ubuntu commands are very similar, the instructions will very probably work with both 
 
 
 ## Printer installation
