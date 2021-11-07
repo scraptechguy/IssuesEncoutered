@@ -12,7 +12,7 @@ In your XCode project, double click its name in the left top corner
 
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/75474651/140650917-ba2997f5-6692-426b-9954-35063d4477a5.png">
 
-A menu will show up, in targets, select "<name of your project>" (iOS)
+A menu will show up, in targets, select the one with the name of your project with following (iOS) 
   
 <img width="163" alt="image" src="https://user-images.githubusercontent.com/75474651/140650955-4b34795e-b8be-4b21-ba00-3e8e5cf8758f.png">
 
