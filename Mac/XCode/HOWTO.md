@@ -16,7 +16,12 @@ A menu will show up, in targets, select <name of your project> (iOS)
   
 <img width="163" alt="image" src="https://user-images.githubusercontent.com/75474651/140650955-4b34795e-b8be-4b21-ba00-3e8e5cf8758f.png">
 
+There go to Signing & Capabilities and select whatever team you want. By default, personal team with your name is created
+  
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/75474651/140650984-dfc1f3cf-90bd-41a1-aff8-4727899de316.png">
 
+And that's it! Easy, right? Well I've been figuring that out for a week... 
+  
 + Connect your iPhone to your mac with a cable 
 
 + In iPhone Settings, search for Developer menu. There authorise your mac 
