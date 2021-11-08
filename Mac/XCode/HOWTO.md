@@ -64,7 +64,7 @@ This will create main.cpp. We're done!
 
 ## info.plist is not there 
 
-In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn't really. To find it... 
+In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn't really. TThey hid it in your project's settings! To find it... 
 
 + Select name of your project in top left corner
 
@@ -74,3 +74,8 @@ In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn'
 
 <img width="152" alt="image" src="https://user-images.githubusercontent.com/75474651/140822605-49b89d43-6c8e-4942-aa94-88fccb917a59.png">
 
++ Go to Info in the menu on top 
+
+<img width="645" alt="image" src="https://user-images.githubusercontent.com/75474651/140822701-ec1064ef-1f6d-41d2-b18f-08301da11c08.png">
+
+And you're there!
