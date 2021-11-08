@@ -63,3 +63,14 @@ You can further modify it using methods (as you would modify an image)
 This will create main.cpp. We're done!
 
 ## info.plist is not there 
+
+In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn't really. To find it... 
+
++ Select name of your project in top left corner
+
+<img width="271" alt="image" src="https://user-images.githubusercontent.com/75474651/140822516-b0d3919a-53a3-4c14-94c9-406f9405e30e.png">
+
++ In targets, select name of your project + (iOS)
+
+<img width="152" alt="image" src="https://user-images.githubusercontent.com/75474651/140822605-49b89d43-6c8e-4942-aa94-88fccb917a59.png">
+
