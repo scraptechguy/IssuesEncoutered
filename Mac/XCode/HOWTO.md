@@ -62,3 +62,4 @@ You can further modify it using methods (as you would modify an image)
 
 This will create main.cpp. We're done!
 
+## info.plist is not there 
