@@ -5,3 +5,5 @@
 + Note: Issue solutions for Mac will very probably NOT work on Windows nor Linux. Solutions are specific for it's operating system/programming language
 
 ### Disclaimer: These solutions worked for me, I am NOT responsible in any way for any trouble caused by you trying to follow these instructions. Thanks!
+
++ PS I hope you find this helpful! 
