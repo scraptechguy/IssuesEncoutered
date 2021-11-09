@@ -1,3 +1,7 @@
+# Welcome in MacOS HOWTO! 
+
+Before doing anything else (no matter how upset with an issue you are), please go over <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/README.md" target="_blank">README.md</a> of this repo. Thanks! 
+
 ## Python installation 
 
 Mac's default version of Python is 2.7, to change that to the newest one, do the following... 
