@@ -1,4 +1,10 @@
-# These instructions are Debian specific, but...
+# Welcome to Linux HOWTO! 
+
+Before anything else (no matter how upset with an issue you are), please go over <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/README.md" target="_blank">README.md</a> of this repo. Thanks! 
+
++ Quick note:
+
+### These instructions are Debian specific, but...
 
 + Debian and Ubuntu commands are very similar, the instructions will very probably work with both 
 
