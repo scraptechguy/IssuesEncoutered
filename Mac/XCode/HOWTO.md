@@ -1,3 +1,7 @@
+# Welcome in XCode HOWTO! 
+
+Before anything else (no matter how upset with an issue you are), go over <a href="" target="_blank">README.md</a> of this repo. Thanks! 
+
 ## Running code on a physical device
 
 Yes, it has to be an iPhone... 
