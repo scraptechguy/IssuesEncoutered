@@ -1,3 +1,7 @@
+# Welcome in Windows HOWTO! 
+
+Before anything else (no matter how upset with an issue you are), please go over <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/README.md" target="_blank">README.md</a> of this repo. Thanks! 
+
 ## Kivy
 
 + Never name python (or any) file the same as a library you are using. Python prioritises python file over library with the same name.
