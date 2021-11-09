@@ -4,9 +4,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 
 + Quick note:
 
-### These instructions are Debian specific, but...
-
-+ Debian and Ubuntu commands are very similar, the instructions will very probably work with both 
+### These instructions are Debian specific, but Debian and Ubuntu commands are very similar, the instructions will very probably work with both 
 
 
 ## Printer installation
