@@ -6,4 +6,3 @@
 
 ### Disclaimer: These solutions worked for me, I am NOT responsible in any way for any trouble caused by you trying to follow these instructions. Thanks!
 
-+ PS I hope you find this helpful! 
