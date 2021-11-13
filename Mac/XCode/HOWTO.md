@@ -93,3 +93,8 @@ And you're there!
 + In XCode on the left pane menu, click on the weird square (second from left), and go to Repositories 
 
 <img width="268" alt="image" src="https://user-images.githubusercontent.com/75474651/141649927-7c02def0-2296-4e18-b29c-4ec971cbc68b.png">
+
++ There double click Remotes (the last one) and select Add Existing Remote...
+
+<img width="338" alt="image" src="https://user-images.githubusercontent.com/75474651/141649966-57ff40bf-00e4-4ebd-bc56-df9e007520e5.png">
+
