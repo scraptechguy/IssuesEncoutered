@@ -98,3 +98,12 @@ And you're there!
 
 <img width="338" alt="image" src="https://user-images.githubusercontent.com/75474651/141649966-57ff40bf-00e4-4ebd-bc56-df9e007520e5.png">
 
++ A popup will show up, keep the name and paste your link from earlier to Location
+
+<img width="469" alt="image" src="https://user-images.githubusercontent.com/75474651/141650019-4359e5f0-923a-4e7f-8365-198df293c20d.png">
+
++ Then click add and under Source Control on top push on GitHub, we're done! 
+
+<img width="581" alt="image" src="https://user-images.githubusercontent.com/75474651/141650065-2f74b5c5-fd9a-4b10-ac05-13fd5f7b7d3c.png">
+
+(don't include tags)
