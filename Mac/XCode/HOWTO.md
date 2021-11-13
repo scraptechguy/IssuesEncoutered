@@ -85,3 +85,11 @@ In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn'
 And you're there!
 
 ## Connecting to an existing remote in XCode
+
++ Create a new GitHub repo and copy the link on the top of the page 
+
+<img width="1201" alt="image" src="https://user-images.githubusercontent.com/75474651/141649877-b0514853-a070-4ae6-a952-1fe1266f495e.png">
+
++ In XCode on the left pane menu, click on the weird square (second from left), and go to Repositories 
+
+<img width="268" alt="image" src="https://user-images.githubusercontent.com/75474651/141649927-7c02def0-2296-4e18-b29c-4ec971cbc68b.png">
