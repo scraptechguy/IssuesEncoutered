@@ -83,3 +83,5 @@ In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn'
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/75474651/140822701-ec1064ef-1f6d-41d2-b18f-08301da11c08.png">
 
 And you're there!
+
+## Connecting to an existing remote in XCode
