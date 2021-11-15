@@ -109,3 +109,7 @@ And you're there!
 (don't include tags)
 
 ### XCode GitHub contributions won't show in your repo 
+
++ In XCode pull your GitHub repo first 
+
++ Then push changes 
