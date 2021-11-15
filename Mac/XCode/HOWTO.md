@@ -107,3 +107,5 @@ And you're there!
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/75474651/141650065-2f74b5c5-fd9a-4b10-ac05-13fd5f7b7d3c.png">
 
 (don't include tags)
+
+### XCode GitHub contributions won't show in your repo 
