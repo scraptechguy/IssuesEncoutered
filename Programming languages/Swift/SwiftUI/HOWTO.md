@@ -6,7 +6,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 
 + In SwiftUI, maximum number of views (elements) in a container is 10. One element could be Spacer() or a button. To resolve this, group views together:
 
-```source.swift
+```swift
 Group {
     <code>
 }
