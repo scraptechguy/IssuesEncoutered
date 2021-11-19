@@ -111,4 +111,4 @@ VSCode has by default (when downloaded) only read access - it's in the Downloads
 
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/75474651/142592674-e78bc89a-0c8b-4af3-962c-1e298142f99c.png">
 
-After this, VSCode checks for updates and if it finds any, gets updated! 
+After this, VSCode will check for updates and if it finds any, gets updated! 
