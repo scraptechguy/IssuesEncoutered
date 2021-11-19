@@ -98,3 +98,13 @@ This will create main.cpp. We're done!
 ### Using Visual Studio 
 
 ### Using Visual Studio Code 
+
+## Visual Studio Code won't update 
+
+VSCode has by default (when downloaded) only read access - it's in the Downloads folder -> it won't update itself and won't let you update it To fix this, do the following...
+
++ Move Visual Studio Code to the Applications folder
+
++ Open VSCode 
+
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/75474651/142592674-e78bc89a-0c8b-4af3-962c-1e298142f99c.png">
