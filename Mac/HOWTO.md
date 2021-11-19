@@ -6,7 +6,7 @@ Before doing anything else (no matter how upset with an issue you are), please g
 
 Mac's default version of Python is 2.7, to change that to the newest one, do the following... 
 
-+ Check current python version by: 
++ Check current python version in terminal by: 
  
       python --version
 
