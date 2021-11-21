@@ -4,7 +4,7 @@ Before doing anything else (no matter how upset with an issue you are), please g
 
 ### Table of contents
 
-+ Python installation 
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#python-installation">Python installation</a>
 + Pip installation 
 + Setting up super user (su)
 + Running C++
