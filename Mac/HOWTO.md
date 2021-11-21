@@ -7,8 +7,8 @@ Before doing anything else (no matter how upset with an issue you are), please g
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#python-installation">Python installation</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#pip-installation">Pip installation</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#setting-up-super-user-su">Setting up super user (su)</a>
-+ <a href="">Running C++</a>
-+ <a href="">Visual Studio Code won't update</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#running-c">Running C++</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#visual-studio-code-wont-update">Visual Studio Code won't update</a>
 
 ## Python installation 
 
