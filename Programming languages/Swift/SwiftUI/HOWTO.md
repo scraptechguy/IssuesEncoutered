@@ -4,7 +4,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 
 ### Table of contents
 
-+ <a href="">Maximum number of views exceeded</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#maximum-number-of-views-exceeded">Maximum number of views exceeded</a>
 
 ## Maximum number of views exceeded 
 
