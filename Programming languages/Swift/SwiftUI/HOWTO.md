@@ -16,4 +16,4 @@ Group {
 }
 ```
 
-<a href="">Table of contents</a>
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
