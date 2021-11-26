@@ -9,6 +9,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#running-c-using-xcode">Running C++ using XCode</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#infoplist-is-not-there">info.plist is not there</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#connecting-to-an-existing-remote-in-xcode">Connecting to an existing remote in XCode</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#xcode-github-contributions-wont-show-in-your-repo">XCode GitHub contributions won't show in your repo</a>
 
 ## Running code on a physical device
 
