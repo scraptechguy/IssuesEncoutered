@@ -20,3 +20,4 @@ VSCode has by default (when downloaded) only read access - it's in the Downloads
 
 After this, VSCode will check for updates and if it finds any, gets updated! 
 
+<a href="">Table of contents</a>
