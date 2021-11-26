@@ -4,7 +4,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 
 ### Table of contents
 
-+ <a href="">Visual Studio Code won't update</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/VSCode/HOWTO.md#visual-studio-code-wont-update">Visual Studio Code won't update</a>
 
 ## Visual Studio Code won't update
 
