@@ -2,6 +2,10 @@
 
 Before anything else (no matter how upset with an issue you are), please go over <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/README.md" target="_blank">README.md</a> of this repo. Thanks! 
 
+### Table of contents 
+
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#running-code-on-a-physical-device">Running code on a physical device</a>
+
 ## Running code on a physical device
 
 Yes, it has to be an iPhone... 
