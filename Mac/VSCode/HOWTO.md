@@ -20,4 +20,4 @@ VSCode has by default (when downloaded) only read access - it's in the Downloads
 
 After this, VSCode will check for updates and if it finds any, gets updated! 
 
-<a href="">Table of contents</a>
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/VSCode/HOWTO.md#welcome-to-vscode-howto">Table of contents</a>
