@@ -41,6 +41,8 @@ And that's it! Easy, right? Well I've been figuring that out for a week...
 
 + In XCode Simulators pane, your iPhone name should appear. Select it and click the run button 
 
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
+
 ## Using Apple SF Symbols in Swift 
 
 You are free to use any symbol in your app as long as you're publishing it directly to app store. Symbols may NOT be used anywhere else. You may use images with those symbols in your app campaign
@@ -56,6 +58,8 @@ You are free to use any symbol in your app as long as you're publishing it direc
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/75474651/140283299-92ff0ab5-6ba5-4db0-9b87-e3a540fd38e5.png">
 
 You can further modify it using methods (as you would modify an image)
+
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
 
 ## Running C++ using XCode 
 
@@ -75,6 +79,8 @@ You can further modify it using methods (as you would modify an image)
 
 This will create main.cpp. We're done!
 
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
+
 ## info.plist is not there 
 
 In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn't really. TThey hid it in your project's settings! To find it... 
@@ -92,6 +98,8 @@ In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn'
 <img width="645" alt="image" src="https://user-images.githubusercontent.com/75474651/140822701-ec1064ef-1f6d-41d2-b18f-08301da11c08.png">
 
 And you're there!
+
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
 
 ## Connecting to an existing remote in XCode
 
@@ -117,8 +125,12 @@ And you're there!
 
 (don't include tags)
 
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
+
 ### XCode GitHub contributions won't show in your repo 
 
 + In XCode pull your GitHub repo first 
 
 + Then push changes 
+
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
