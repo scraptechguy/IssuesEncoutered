@@ -8,6 +8,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#using-apple-sf-symbols-in-swift">Using Apple SF Symbols in Swift</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#running-c-using-xcode">Running C++ using XCode</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#infoplist-is-not-there">info.plist is not there</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#connecting-to-an-existing-remote-in-xcode"></a>
 
 ## Running code on a physical device
 
