@@ -5,6 +5,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 ### Table of contents 
 
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#running-code-on-a-physical-device">Running code on a physical device</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#using-apple-sf-symbols-in-swift">Using Apple SF Symbols in Swift<>
 
 ## Running code on a physical device
 
