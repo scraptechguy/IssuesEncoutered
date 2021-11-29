@@ -12,3 +12,4 @@ Before doing anything else (no matter how upset with an issue you are), please g
 ### Key phrase
 
 ## Continuos Speech to text with Python
+
