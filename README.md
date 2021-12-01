@@ -8,5 +8,9 @@
 
 ## Structure
 
-### <a href="">Azure</a>
+### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Azure/HOWTO.md">Azure</a>
+
+### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Linux/HOWTO.md">Linux</a>
+
+### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md">Mac</a>
 
