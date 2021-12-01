@@ -12,5 +12,7 @@
 
 ### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Linux/HOWTO.md">Linux</a>
 
++ <a href="">Kali</a>
+
 ### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md">Mac</a>
 
