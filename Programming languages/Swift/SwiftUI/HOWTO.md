@@ -17,3 +17,13 @@ Group {
 ```
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
+
+## ScrollBar in ScrollView is annoying 
+
++ By default when ScrollView exceeds screen size, ScrollBar shows. To hide it, add this to your ScrollView
+
+```swift
+ScrollView(showsIndicators: false) {
+    <code>
+}
+```
