@@ -8,12 +8,12 @@
 
 ## Structure
 
-### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Azure/HOWTO.md">Azure</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Azure/HOWTO.md">Azure</a>
 
-### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Linux/HOWTO.md">Linux</a> (<a href="">Kali</a>)
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Linux/HOWTO.md">Linux</a> (<a href="">Kali</a>)
 
-### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md">Mac</a> (<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/VSCode/HOWTO.md">VSCode</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md">XCode</a>)
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md">Mac</a> (<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/VSCode/HOWTO.md">VSCode</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md">XCode</a>)
 
-### Programming languages (<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/C%2B%2B/HOWTO.md">C++</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Python/HOWTO.md">Python</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md">Swift</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/html%2C%20css%2C%20js/HOWTO.md">html, css, js</a>)
++ Programming languages (<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/C%2B%2B/HOWTO.md">C++</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Python/HOWTO.md">Python</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md">Swift</a>, <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/html%2C%20css%2C%20js/HOWTO.md">html, css, js</a>)
 
-### <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Windows/HOWTO.md">Windows</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Windows/HOWTO.md">Windows</a>
