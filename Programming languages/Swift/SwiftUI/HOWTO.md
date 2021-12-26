@@ -5,6 +5,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 ### Table of contents
 
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#maximum-number-of-views-exceeded">Maximum number of views exceeded</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#scrollbar-in-scrollview-is-annoying">ScrollBar in ScrollView is annoying</a>
 
 ## Maximum number of views exceeded 
 
@@ -16,8 +17,6 @@ Group {
 }
 ```
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
-
 ## ScrollBar in ScrollView is annoying 
 
 + By default when ScrollView exceeds screen size, ScrollBar shows. To hide it, add this to your ScrollView
@@ -27,3 +26,5 @@ ScrollView(showsIndicators: false) {
     <code>
 }
 ```
+
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
