@@ -28,3 +28,12 @@ ScrollView(showsIndicators: false) {
 ```
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
+
+## Align text to block
+
++ This sounds and is stupid, but learned about such a thing after 2 months of using SwiftUI. To align text to block, use the following method:
+
+```swift
+Text("Hello, World!")
+    .multilineTextAlignment(.center)
+```
