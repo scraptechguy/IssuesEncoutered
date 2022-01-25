@@ -42,21 +42,44 @@ Text("Hello, World!")
 ## Adding and removing views with animation
 
 ```swift
-struct ContentView: View {
-    @State private var showDetails = false
+struct HomeView: View {
+    @State private var showingInfo:Bool = false
 
     var body: some View {
         VStack {
-            Button("Press to show details") {
+            Button("Press to show more info") {
                 withAnimation {
-                    showDetails.toggle()
+                    showingInfo.toggle()
                 }
             }
 
-            if showDetails {
-                Text("Details go here.")
+            if showingInfo {
+                Text("You suck lol.")
             }
         }
     }
 }
 ```
+
+
+## Vertical swipable views
+
++ In `<project name>App` file:
+
+```swift
+import SwiftUI
+
+@main
+struct <project name>App: App {
+    var body: some Scene {
+        WindowGroup {
+            TabView {
+                PurpleView()
+                    .environmentObject(ContentModel())
+                    
+                PinkView()
+                    .environmentObject(ContentModel())
+            }.tabViewStyle(PageTabViewStyle())
+        }
+    }
+}
