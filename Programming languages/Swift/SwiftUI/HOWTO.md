@@ -37,3 +37,26 @@ ScrollView(showsIndicators: false) {
 Text("Hello, World!")
     .multilineTextAlignment(.center)
 ```
+
+
+## Adding and removing views with animation
+
+```swift
+struct ContentView: View {
+    @State private var showDetails = false
+
+    var body: some View {
+        VStack {
+            Button("Press to show details") {
+                withAnimation {
+                    showDetails.toggle()
+                }
+            }
+
+            if showDetails {
+                Text("Details go here.")
+            }
+        }
+    }
+}
+```
