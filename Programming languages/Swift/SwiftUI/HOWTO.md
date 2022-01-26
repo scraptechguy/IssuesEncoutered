@@ -11,6 +11,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#vertical-swipable-views">Vertical swipable views</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#simultaneous-button-gestures">Simultaneous button gestures</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#userdefaults">UserDefaults</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#userdefaults">Preview provider bugs</a>
 
 
 ## Maximum number of views exceeded 
@@ -134,5 +135,22 @@ Usage example:
 ```swift
 Button(action: {model.changeGuideStatus()}, label: {Text("Continue")})
 ```
+
+
+## Preview provider bugs
+
+### Using EnvironmentObject wrappers
+
++ When using EnvironmentObject wrappers make sure to add `.environmentObject(ContentModel())` to PreviewProvider struct as well. 
+
+```swift
+struct HomeView_Previews: PreviewProvider {
+    static var previews: some View {
+        HomeView()
+            .environmentObject(ContentModel())
+    }
+}
+```
+
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
