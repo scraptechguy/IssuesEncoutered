@@ -83,3 +83,27 @@ struct <project name>App: App {
         }
     }
 }
+```
+
+## Simultaneous button gestures
+
++ SwiftUI allows you to add more than one button gesture. In this case it's click and hold for 0.7 seconds or longer. 
+
+```swift
+Button(action: {
+            if model.isLongPressing == true {
+            model.isLongPressing.toggle()
+            }
+                        
+            else {
+                model.count += 1
+            }
+                
+            model.checkTextSize()
+        },
+        label: {<code>}).simultaneousGesture(LongPressGesture(minimumDuration: 0.7).onEnded { _ in
+                            model.isLongPressing = true
+                    
+                            model.count = 0
+                        })
+```
