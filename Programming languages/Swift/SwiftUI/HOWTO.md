@@ -10,6 +10,8 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#adding-and-removing-views-with-animation">Adding and removing views with animation</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#vertical-swipable-views">Vertical swipable views</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#simultaneous-button-gestures">Simultaneous button gestures</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#userdefaults">UserDefaults</a>
+
 
 ## Maximum number of views exceeded 
 
@@ -31,7 +33,6 @@ ScrollView(showsIndicators: false) {
 }
 ```
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
 
 ## Align text to block
 
@@ -89,6 +90,7 @@ struct <project name>App: App {
 }
 ```
 
+
 ## Simultaneous button gestures
 
 + SwiftUI allows you to add more than one button gesture. In this case it's click and hold for 0.7 seconds or longer. 
@@ -112,6 +114,7 @@ Button(action: {
                         })
 ```
 
+
 ## UserDefaults
 
 + UserDefaults are used to store data even after application is closed. Property wrappers are not allowed in top level code, otherwise it doesn't really matter where you declare UserDefaults.
@@ -131,3 +134,5 @@ Usage example:
 ```swift
 Button(action: {model.changeGuideStatus()}, label: {Text("Continue")})
 ```
+
+<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
