@@ -111,3 +111,23 @@ Button(action: {
                             model.count = 0
                         })
 ```
+
+## UserDefaults
+
++ UserDefaults are used to store data even after application is closed. Property wrappers are not allowed in top level code, otherwise it doesn't really matter where you declare UserDefaults.
+
+```swift
+class ContentModel: ObservableObject {
+    @AppStorage("guideStatus") var guideShown: Bool = false
+    
+    func changeGuideStatus() {
+        guideShown = true
+    }
+}
+```
+
+Usage example:
+
+```swift
+Button(action: {model.changeGuideStatus()}, label: {Text("Continue")})
+```
