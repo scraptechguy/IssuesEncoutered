@@ -41,7 +41,6 @@ And that's it! Easy, right? Well I've been figuring that out for a week...
 
 + In XCode Simulators pane, your iPhone name should appear. Select it and click the run button 
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
 
 ## Using Apple SF Symbols in Swift 
 
@@ -79,7 +78,6 @@ You can further modify it using methods (as you would modify an image)
 
 This will create main.cpp. We're done!
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
 
 ## info.plist is not there 
 
@@ -99,7 +97,6 @@ In XCode 13 and later, info.plist appears to be missing. Well it is, but it isn'
 
 And you're there!
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
 
 ## Connecting to an existing remote in XCode
 
@@ -125,12 +122,21 @@ And you're there!
 
 (don't include tags)
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
 
 ### XCode GitHub contributions won't show in your repo 
 
 + In XCode pull your GitHub repo first 
 
 + Then push changes 
+
+
+## Untrusted developer
+
++ Go to Settings > General > VPN & Device Managment
+
++ Under Developer App click your account
+
++ Confirm trustworthiness of your developer account
+
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/XCode/HOWTO.md#welcome-to-xcode-howto">Table of contents</a>
