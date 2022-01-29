@@ -153,4 +153,32 @@ struct HomeView_Previews: PreviewProvider {
 ```
 
 
+## Freezing a header 
+
++ To make the header not move while scrolling, you can do the following:
+
+```swift
+        ScrollView {
+            LazyVStack(alignment: .leading, pinnedViews: [.sectionHeaders]) {
+                Section(header: Text("Restaurants").bold()) {
+                    ForEach(model.restaurants) {business in
+                        Text(business.name ?? "")
+
+                        Divider()
+                    }
+                }
+                
+                Section(header: Text("Sights").bold()) {
+                    ForEach(model.sights) {business in
+                        Text(business.name ?? "")
+                        
+                        Divider()
+                    }
+                }
+            }
+        }
+```
+
+Or create multiple ScrollViews, obviously 
+
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
