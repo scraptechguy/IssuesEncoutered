@@ -9,6 +9,7 @@ Before doing anything else (no matter how upset with an issue you are), please g
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#setting-up-super-user-su">Setting up super user (su)</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#running-c">Running C++</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#visual-studio-code-wont-update">Visual Studio Code won't update</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#visual-studio-code-wont-update">Visual Studio Code won't update</a>
 
 ## Python installation 
 
@@ -42,7 +43,6 @@ Output in my case:
 Python 3.10.0
 ```
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#welcome-to-macos-howto">Table of contents</a>
 
 ## Pip installation
 
@@ -72,7 +72,6 @@ Output when pip doesn't work:
       ...
       Successfully installed pip-21.3.1 wheel-0.37.0
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#welcome-to-macos-howto">Table of contents</a>
 
 ## Setting up super user (su) 
 
@@ -92,7 +91,6 @@ Output when pip doesn't work:
 
 (Image of how Edit menu looks like after succesfully setting up root user)
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#welcome-to-macos-howto">Table of contents</a>
 
 ## Running C++
 
@@ -118,7 +116,6 @@ This will create main.cpp. We're done!
 
 ### Using Visual Studio Code 
 
-<a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#welcome-to-macos-howto">Table of contents</a>
 
 ## Visual Studio Code won't update 
 
@@ -133,5 +130,10 @@ VSCode has by default (when downloaded) only read access - it's in the Downloads
 <img width="335" alt="image" src="https://user-images.githubusercontent.com/75474651/142592674-e78bc89a-0c8b-4af3-962c-1e298142f99c.png">
 
 After this, VSCode will check for updates and if it finds any, gets updated! 
+
+
+## Deleting multiline tabs 
+
++ Just select lines you want to unintend and press `shift` + `tab`
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#welcome-to-macos-howto">Table of contents</a>
