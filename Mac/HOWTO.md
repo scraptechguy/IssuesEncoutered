@@ -9,7 +9,7 @@ Before doing anything else (no matter how upset with an issue you are), please g
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#setting-up-super-user-su">Setting up super user (su)</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#running-c">Running C++</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#visual-studio-code-wont-update">Visual Studio Code won't update</a>
-+ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#visual-studio-code-wont-update">Visual Studio Code won't update</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Mac/HOWTO.md#deleting-multiline-tabs">Deleting multiline tabs</a>
 
 ## Python installation 
 
