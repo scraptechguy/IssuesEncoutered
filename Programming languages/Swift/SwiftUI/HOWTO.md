@@ -13,7 +13,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#userdefaults">UserDefaults</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#preview-provider-bugs">Preview provider bugs</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#freezing-a-header">Freezing a header</a>
-
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#execute-function-on-start-up">Execute function on start up</a>
 
 ## Maximum number of views exceeded 
 
@@ -180,6 +180,15 @@ struct HomeView_Previews: PreviewProvider {
         }
 ```
 
-Or create multiple ScrollViews, obviously 
+
+## Execute function on start up
+
++ To execute a function before a view is shown, do the following: 
+
+```swift
+    HomeView()
+        .onAppear(perform: <your function>)
+```
+
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
