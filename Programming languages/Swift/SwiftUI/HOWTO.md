@@ -201,7 +201,7 @@ struct HomeView_Previews: PreviewProvider {
 
 ![image](https://user-images.githubusercontent.com/75474651/152373486-fc79846d-b346-40c3-9eec-b395a30dc2aa.png)
 
-+ There look for Info.plist Values section 
++ There proceed to Build Settings and look for Info.plist Values section 
 
 ![image](https://user-images.githubusercontent.com/75474651/152373742-83c6db2b-855c-477b-a0cb-d18d25afa460.png)
 
