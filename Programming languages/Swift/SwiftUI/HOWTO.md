@@ -15,6 +15,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#freezing-a-header">Freezing a header</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#execute-function-on-start-up">Execute function on start up</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#lock-app-in-portrait">Lock app in portrait</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#aminations">Animations</a>
 
 
 ## Maximum number of views exceeded 
@@ -206,6 +207,13 @@ struct HomeView_Previews: PreviewProvider {
 ![image](https://user-images.githubusercontent.com/75474651/152373742-83c6db2b-855c-477b-a0cb-d18d25afa460.png)
 
 + And change Supported Interface Orientations to UIInterfaceOrientataionPortrait only
+
+
+## Animations
+
+```
+https://youtu.be/52Otx3xDGUo
+```
 
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
