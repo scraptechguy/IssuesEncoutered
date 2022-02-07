@@ -17,6 +17,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#lock-app-in-portrait">Lock app in portrait</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#animations">Animations</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#concepts">Concepts</a>
++ <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#widgets">Widgets</a>
 
 
 ## Maximum number of views exceeded 
@@ -476,6 +477,13 @@ struct EmitterView: UIViewRepresentable {
         }
     }
 }
+```
+
+
+## Widgets
+
+```
+https://developer.apple.com/forums/thread/652198
 ```
 
 
