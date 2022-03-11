@@ -18,6 +18,7 @@ Before anything else (no matter how upset with an issue you are), please go over
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#animations">Animations</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#concepts">Concepts</a>
 + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#widgets">Widgets</a>
++ + <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#sharing-accross-multiple-targets">Sharing accross multiple targets</a>
 
 
 ## Maximum number of views exceeded 
@@ -485,6 +486,17 @@ struct EmitterView: UIViewRepresentable {
 ```
 https://developer.apple.com/forums/thread/652198
 ```
+
+
+## Sharing accross multiple targets
+
++ Open menu on the right and go to File Inspector 
+
+<img width="364" alt="image" src="https://user-images.githubusercontent.com/75474651/157835731-b6be707f-471e-4e64-abbc-6ed28917749e.png">
+
++ In Target Membership, tick both targets to share data accross them
+
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/75474651/157835901-ebf17429-d55e-4d4b-89dc-3e75dfb1b443.png">
 
 
 <a href="https://github.com/scraptechguy/IssuesEncoutered/blob/main/Programming%20languages/Swift/SwiftUI/HOWTO.md#welcome-to-swiftui-howto">Table of contents</a>
